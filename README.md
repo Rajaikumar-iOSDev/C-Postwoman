@@ -11,7 +11,7 @@ Build
 1. Open a terminal and cd into the project directory:
 
 ```sh
-cd "/Users/pituser/Documents/Raylib mini projects/PostWoman"
+cd "/Users/personal/Documents/Raylib mini projects/PostWoman"
 ```
 2. Run `make`:
 
